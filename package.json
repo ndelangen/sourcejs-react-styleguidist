@@ -69,7 +69,7 @@
     "babel-preset-react-hmre": "^1.1.1",
     "babel-standalone": "^6.7.7",
     "chai": "~3.5.0",
-    "css-modules-require-hook": "~4.0.5",
+    "css-modules-require-hook": "~4.2.1",
     "eslint": "3.9.1",
     "eslint-plugin-react": "6.6.0",
     "expect-react-shallow": "~1.2.1",
