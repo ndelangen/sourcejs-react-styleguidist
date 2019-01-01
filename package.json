@@ -41,7 +41,7 @@
     "findup": "0.1.5",
     "glob": "7.1.1",
     "lodash": "4.16.6",
-    "marked": "0.3.6",
+    "marked": "0.6.0",
     "minimist": "1.2.0",
     "postcss-advanced-variables": "1.2.2",
     "postcss-loader": "1.1.0",
